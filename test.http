@@ -11,5 +11,5 @@ POST http://127.0.0.1:8080/api/validate_chirp HTTP/1.1
 content-type: application/json
 
 {
-  "asdf": "This is junkaasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfsdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdf"
+  "body": "Go kerfuffle yourself"
 }
