@@ -31,3 +31,7 @@ content-type: application/json
   "body": "Hello, world!",
   "user_id": "51be2afc-5bec-4f0e-ba0b-4570aba4b9c1"
 }
+
+
+###
+GET http://127.0.0.1:8080/api/chirps HTTP/1.1
